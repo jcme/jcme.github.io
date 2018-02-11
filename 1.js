@@ -1,5 +1,6 @@
 
 var to = 'Dan!';
+var gift_url = false;
 var gift_image_url = 'https://www.intouchsol.com/Content/Libraries//echo-blog-body.png';
 
 
